@@ -1,1 +1,0 @@
-import{b as o}from"./app.a6ac607b.js";import{f as t,l as s,o as a,c as n,e as r}from"./vendor.b93014b3.js";const m=t({setup(c){return s({title:"Newsletter - Liyas Thomas"}),(p,_)=>{const e=o;return a(),n("div",null,[r(e)])}}});export{m as default};
