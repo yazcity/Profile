@@ -1,0 +1,1 @@
+import{a as o}from"./app.a6ac607b.js";import{f as t,l as a,o as s,c as n,e as c}from"./vendor.b93014b3.js";const l=t({setup(r){return a({title:"Timeline - Liyas Thomas"}),(p,_)=>{const e=o;return s(),n("div",null,[c(e)])}}});export{l as default};
